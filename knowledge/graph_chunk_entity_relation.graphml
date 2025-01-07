@@ -1,0 +1,991 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;TUNKU&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tunku refers to the leader of Malaysia during the time of separation from Singapore, whose decisions greatly influenced the regional dynamics and historical relations between the two countries."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;ZHOU ZIYANG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Zhou Ziyang was the Secretary-General of the Communist Party in China, involved in a historical conference with Mr Lee."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;CHINESE FAMILY TRADITIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Chinese family traditions describe the customs and rituals that Lee Kuan Yew grew up with, particularly surrounding ancestor worship."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;TIME MAGAZINE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Time magazine is a well-known publication where Mr Lee discussed his perspectives on human endurance and belief."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;PARIS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Paris is the capital city of France, where discussions on international advisory matters occur, particularly related to global economics."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;CHINESE COMMUNITY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chinese Community in Singapore represents a significant ethnic group that contributed to the nation's development and is a focus in discussions about racial policies and integration."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;THE GREAT HALL OF THE PEOPLE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Great Hall of the People is a significant location in China, where important political meetings and conferences are held."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;STRAITS TIMES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Straits Times is a newspaper that provides news coverage and personal stories, relevant to Mr Lee and his family's experiences."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;MARRIAGE VOWS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Marriage Vows represent the commitments and promises made between partners, reflecting the depth of feelings Mr Lee has towards his relationship."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;SKOLKOVO BUSINESS SCHOOL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Skolkovo Business School is an educational institution in Russia involved in business and leadership training with ties to political leaders."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;INDIANS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Indians refer to one of the major ethnic communities in Singapore, playing a crucial role in the multicultural fabric of Singaporean society."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;PROSTATE CANCER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Prostate cancer is a medical condition affecting Mr Lee's brother, significant to the discussion about health challenges within his family."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;HUMAN SPIRIT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Human Spirit refers to the inner strength and resilience displayed in the face of adversity, a topic discussed by Mr Lee reflecting on survival through belief."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;TOTAL ADVISORY BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The TOTAL Advisory Board is a collective of experts providing insights and strategic advice about the energy sector, including discussions on China."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;MALAYS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Malays represent another key ethnic group in Singapore, with their own distinct cultural and historical context in relation to the nation’s policies."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;DIVERTICULITIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Diverticulitis is a health condition faced by Mr Lee's brother, contributing to the serious health discussions in the text."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;DAUGHTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr. Lee's daughter is a significant family member who writes a column about their situation, showcasing empathy and family struggles."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;15TH OF SEPTEMBER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"15th of September is a specific date mentioned for scheduled international engagements involving the speaker."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;ENGLISH LANGUAGE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"English Language serves as Singapore's working language, promoting inclusivity and connectivity among the diverse population."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;FINANCE MINISTER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Finance Minister is a character referenced by Mr Lee, identified as a close friend and cabinet colleague, notable for his bravery and calmness during a health crisis."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;HOSPITAL BED&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Hospital Bed is a medical furniture intended for patients who require special care at home, representing the professional care provided to Mr. Lee's relative."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;PRESIDENT MEDVEDEV&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"President Medvedev is a former president of Russia involved in starting the Skolkovo Business School and engaging with international leaders."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;PLAYING POLITICS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Playing Politics refers to the practice of leveraging ethnic identities for electoral gain, which Mr Lee warns could destabilize social cohesion in Singapore."</data>
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;THE PRIEST&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Priest is depicted as a religious figure providing last rites to the Finance Minister, symbolizing faith and support in times of distress."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;BIOTHENE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Biothene is a moisture spray used by nurses to soothe his wife's dry throat, illustrating the care she receives at home."&lt;SEP&gt;"Biothene is a spray used to soothe dry throats, indicating aspects of medical care being administered to Mr. Lee's relative."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958&lt;SEP&gt;chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;SINGAPORE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Singapore is a city-state known for its successful multiracial society and economic achievements, shaped by policies to promote equality among different ethnic groups."&lt;SEP&gt;"Singapore is a multiracial country guided by policies that reflect its diverse society while grappling with language and cultural issues."&lt;SEP&gt;"Singapore is a nation that Mr Lee helped construct, reflecting a complex integration of diverse cultures and languages while maintaining social cohesion and stability."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;JOE NYE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Joe Nye is a notable political scientist and member of the TOTAL Advisory Board, contributing insights on global issues."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;HENRY KISSINGER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Henry Kissinger is a prominent political figure known for his role in U.S. foreign policy and his interest in international relations, particularly in relation to China."&lt;SEP&gt;"Henry Kissinger is a renowned diplomat and political scientist, known for his influential role in U.S. foreign policy and international relations."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;MR LEE'S BROTHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr Lee's Brother refers to Mr Lee's siblings who are facing significant health challenges, including diverticulitis and prostate cancer."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;NURSES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Nurses are healthcare professionals responsible for attending to Mr. Lee's relative, crucial to her comfort and care."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;FIRES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The fires referenced in the text indicate a situation in Moscow impacting the perception of climate and conditions during the visit."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;RADIN MAS COMMUNITY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Radin Mas Community refers to an event where Mr Lee interacts with local constituents, emphasizing his engagement with the public."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;MR LEE'S FAMILY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Mr Lee's Family indicates his close-knit relationships with his wife, daughters, brothers, and sister, highlighting the importance of familial bonds and support."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;MALAYSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Malaysia is a neighboring country to Singapore and serves as a point of comparison for Mr Lee regarding racial harmony and societal structures."&lt;SEP&gt;"Malaysia is referenced as a neighboring country where Mr Lee faced political challenges, which influenced Singapore's development."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+    </node>
+    <node id="&quot;PHOTOS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Photos are images from the past shared by Mr. Lee's daughter, prompting reflections on happier times and memories."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;J P MORGAN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"J P Morgan is a multinational investment bank and financial services company that sponsors the International Advisory Board, facilitating significant discussions in global economics."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"J P Morgan International Advisory Board is an organization that gathers influential figures to discuss global issues, including those related to China."&lt;SEP&gt;"The J P Morgan International Advisory Board is a group where members, like Henry Kissinger, discuss significant global issues, including China's position in the world."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;HEART ATTACK&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Heart Attack refers to the medical emergencies faced by the Finance Minister and Mr Lee's brother, pivotal to the discussions of health and mortality."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;NAZI&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Nazi reference relates to historical context regarding survival and belief in the face of persecution."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;FACTS AND FIGURES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Facts and figures refer to the data and empirical evidence used to support insights regarding the strengths and weaknesses of China in the global arena."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;MDM YEONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mdm Yeong is a moderator or interviewer engaged in a conversation with Mr Lee, facilitating discussions on his life and career."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;PHYSIOTHERAPY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Physiotherapy is described as a regular treatment that Mr Lee undergoes to manage aches and pains related to aging."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;ISLAM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Islam is mentioned in the context of religious beliefs about the afterlife, specifically regarding the concept of houris, beautiful women in paradise."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;LEE KUAN YEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Lee Kuan Yew is the former Prime Minister of Singapore, known for his leadership and reflections on aging, meditation, and religion."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;COMMUNISTS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Communists are referenced as opposing groups that Mr Lee had to confront, illustrating the political tensions during the early years of Singapore's governance."&lt;SEP&gt;"The Communists are referenced in connection with enduring hardship and survival, discussing resilience during tough circumstances."&lt;SEP&gt;"The Communists refer to a political group with a historical presence influencing ideology and events, mentioned in relation to the human spirit."&lt;SEP&gt;"The Communists referenced are political groups in Singapore that Mr Lee refers to in the context of past political struggles and governance challenges."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;HOT WATER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Hot Water is referenced as a preferred beverage choice for Mr Lee, symbolizing his approach to health and well-being."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;BUDDHISM&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Buddhism is mentioned as the religion associated with the mantra 'Om Mi Tuo Fo', illustrating the diversity of meditation practices."&lt;SEP&gt;"Buddhism is referenced for its belief in transmigration of the soul, emphasizing the idea of moral living leading to rebirth as a better being."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77&lt;SEP&gt;chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;SETH MYDANS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Seth Mydans is a journalist from The New York Times conducting an interview with Lee Kuan Yew."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;CHINESE LANGUAGE AND CULTURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Chinese Language and Culture represent the cultural and linguistic components of Singapore's society, which Mr Lee discusses in relation to national identity and governance."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;CATHERINE LIM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Catherine Lim is a novelist who portrays Mr Lee in a simplistic and often critical light, highlighting the complexities of his character."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;KIM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Kim is a book by Rudyard Kipling that Mr Lee wishes to read again, which offers a historical perspective on India."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;MR LEE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr Lee is a caretaker of his elderly relative, expressing deep emotional ties and reflections on life, facing distressing situations with resilience."&lt;SEP&gt;"Mr Lee is a prominent figure described as a former Prime Minister known for his strict, no-nonsense approach characterized by an authoritarian manner and a significant role in shaping Singapore."&lt;SEP&gt;"Mr Lee is a prominent figure known for his candid reflections on life, leadership, and the challenges of governance in Singapore, especially regarding multiracial society dynamics."&lt;SEP&gt;"Mr Lee is a prominent individual sharing insights on personal experiences, health issues, and familial relationships, reflecting on life with reason and emotion."&lt;SEP&gt;"Mr Lee is a significant figure in Singapore's political landscape, reflecting on his experiences and the societal structures he helped create after the separation from Malaysia."&lt;SEP&gt;"Mr Lee is a speaker in the interview who discusses matters related to international relations, focusing on his engagements and insights."&lt;SEP&gt;"Mr Lee is an individual discussing his beliefs and experiences regarding religion, literature, and caring for his wife, who is bedridden."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-8b9a37af7a435e52523b75d8dc9b7f40&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884&lt;SEP&gt;chunk-03bd688c9e10bddd33d739af95e24657&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;NG KOK SONG&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Ng Kok Song is the Chief Investment Officer of the Government of Singapore Investment Corporation, known for his meditation practice and influence on Lee Kuan Yew."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;ENGLISH LITERATURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"English Literature signifies the literature promoted in Singapore, which Mr Lee contrasts with Chinese education and culture in his governance discussions."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;LIBEL SUITS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Libel suits are legal actions taken by Mr Lee as a means to counter what he perceives as unfounded defamatory statements, reflecting his strategic approach to maintaining his reputation."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;DON QUIXOTE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Don Quixote is a classic novel discussed by Mr Lee, reflecting on its themes of fantasy versus reality."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;LAURENCE FREEMAN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Laurence Freeman is a Catholic meditation teacher who influenced Lee Kuan Yew's understanding of meditation."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;MALAY COUNTRY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Malay Country refers to the narrative where Malaysia identifies itself as a nation primarily for Malays, impacting ethnic relations and policies."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;CHINESE IDEALS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Chinese Ideals refer to traditional values advocating for composure and self-control, which Mr Lee attempts to embody in his public persona."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;JANE AUSTEN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Jane Austen is noted as Mr Lee's wife's favorite author, known for her elegant prose and exploration of human conditions in the 19th century."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;JOHN MAIN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"John Main was a devout Catholic and meditation guru who taught Laurence Freeman and influenced Lee Kuan Yew."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;BUMIPUTRAS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Bumiputras are the Malay indigenous people of Malaysia, as mentioned in the context of national identity and privilege in governance."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;TAXI DRIVER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A taxi driver is mentioned in the interview, providing a candid perspective on Mr Lee's reputation and influence, suggesting a general level of fear among the public regarding inquiries about him."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;CANTERBURY TALES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Canterbury Tales is a collection of stories by Geoffrey Chaucer, studied by Mr Lee during his literature course."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;GOVERNMENT OF SINGAPORE INVESTMENT CORPORATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Government of Singapore Investment Corporation is a sovereign wealth fund that manages Singapore's foreign reserves and investments."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;CHINESE EDUCATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Chinese Education refers to the educational initiatives aimed at preserving the Chinese language and culture, which Mr Lee mentions in his discourse."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;LEFT-WINGERS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Left-wingers refer to political groups that posed challenges to Mr Lee during his tenure, indicating the ideological conflicts he faced while governing Singapore."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;SHAKESPEARE'S SONNETS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Shakespeare's Sonnets are referenced as literature that both Mr Lee and his wife have engaged with."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;CHRISTIANITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Christianity is a religion based on the teachings of Jesus Christ, impacting Lee Kuan Yew's perspective on faith and meditation."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;DEMOCRATIC PROCESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Democratic Process refers to the political framework that Mr Lee critiques, especially in relation to the Communist ideology in Singapore."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;MALAY ULTRAS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Malay Ultras are described as nationalist groups that presented challenges to Mr Lee during his political career in Malaysia, indicating the ethnic tensions of the time."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;MR LEE'S WIFE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mr Lee's wife is bedridden and unable to speak after a series of strokes; she has a background in literature and enjoys poetry."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;MEDITATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Meditation is a practice that Lee Kuan Yew began to engage in as he reflected on life and serenity."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;CHINESE PRESS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Chinese Press encompasses the media outlets in Singapore that promote Chinese language and culture, which are discussed in the context of governance."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;WESTERN CORRESPONDENT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Western correspondents are journalists who visit Singapore, suggesting a tendency to portray the country critically, reflecting biases in foreign media coverage."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;SODIUM AMYTAL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sodium Amytal is mentioned as a method for overdose, reflecting Mr Lee's contemplation of death and control over one’s fate."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;MA RA NA TA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ma Ra Na Ta is a religious mantra recommended during meditation by Ng Kok Song, contributing to Lee Kuan Yew's practice."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;A GOOD LAUGH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"A good laugh refers to the humorous aspect of life that Mr Lee appreciates, emphasizing his acknowledgment of the comedic moments in interpersonal interactions."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;SOCIAL CONTACT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Social Contact emphasizes the importance of interactions among individuals in society, as highlighted by Mr Lee in relation to maintaining his vitality."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;RAFFLES COLLEGE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Raffles College is an educational institution where Mr Lee studied English Literature, highlighting his academic background."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;OM MI TUO FO&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Om Mi Tuo Fo is a Buddhist mantra mentioned by Lee Kuan Yew as an alternative to the religious mantra he chose for meditation."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;FINAL VERDICT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Final Verdict refers to Mr Lee's reflection on how history will judge his actions, not just an immediate assessment or obituary."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;SELF-CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Self-control is highlighted as an important trait in Mr Lee’s character, aligning with traditional values associated with Chinese ideals."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;ALICE IN WONDERLAND&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Alice in Wonderland is referenced as part of the literary background enjoyed by Mr Lee's wife, showcasing her literary tastes."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;QINGMING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Qingming is a traditional Chinese festival during which Lee Kuan Yew reflects on ancestor worship and family rituals."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;LEADERSHIP BATTLE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Leadership Battle reflects on Mr Lee's perspective of the continuous struggles faced in governing a multiracial society."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;NATIONAL UNITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"National unity is the cohesive social fabric that Mr Lee aims to maintain within Singapore, encompassing diverse ethnicities and languages while promoting a singular identity."</data>
+      <data key="d2">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </node>
+    <node id="&quot;ADVENTURES WITH A LOOKING GLASS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Adventures with a Looking Glass is another work by Lewis Carroll mentioned by Mr Lee regarding his wife's interests."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;ALL SOUL'S DAY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"All Soul's Day is observed by Lee Kuan Yew as a day to honor his ancestors, reflecting his background in traditional Chinese practices."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;DAILY CHALLENGE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Daily Challenge refers to the motivational aspect of Mr Lee's work ethic, highlighting his philosophy about remaining engaged and active."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;SAO PAOLO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sao Paolo is a major city in Brazil where meetings and discussions about international advisory matters occur."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;SCOTTISH POETS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scottish poets are mentioned as more difficult for Mr Lee to understand compared to other literary works, indicating a specific challenge in his literary experience."</data>
+      <data key="d2">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </node>
+    <node id="&quot;GOVERNMENT OF SINGAPORE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Government of Singapore is the central authority responsible for the administration and governance of Singapore."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;ISOLATION WARD&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Isolation Ward symbolizes the extreme form of punishment, illustrating the negative effects of isolation on individuals."</data>
+      <data key="d2">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </node>
+    <node id="&quot;CHINA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"China is a large country in East Asia, known for its significant impact on global economics and politics, and is a focus of discussion among international leaders."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;TOM PLATE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tom Plate is mentioned as an interlocutor with Mr Lee, facilitating discussions around his public and private identity."</data>
+      <data key="d2">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </node>
+    <node id="&quot;LEISURE ACTIVITIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Leisure activities such as swimming and cycling are part of Lee Kuan Yew's lifestyle, reflecting his efforts to maintain physical fitness."</data>
+      <data key="d2">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </node>
+    <node id="&quot;SINGAPORE PRESS HOLDINGS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Singapore Press Holdings is an organization associated with the publication of media content including newspapers, which plays a role in the dissemination of personal stories and news."</data>
+      <data key="d2">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </node>
+    <node id="&quot;MOSCOW&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Moscow is the capital city of Russia and serves as a destination for discussions and engagements in international relations."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;KIEV&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Kiev is the capital of Ukraine and is the site of meetings related to international diplomatic efforts."</data>
+      <data key="d2">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </node>
+    <node id="&quot;SEPARATION FROM MALAYSIA&quot;">
+      <data key="d2">chunk-0048e221113e1b67064e6608362e0884</data>
+      <data key="d1">"The event of the separation from Malaysia directly impacted the formation of Singapore’s policies and societal structure."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;ZHOU ZIYANG&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee recounts a historical meeting with Zhou Ziyang, indicating a significant professional relationship and interaction during a conference."</data>
+      <data key="d5">"historical significance, professional interaction"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;TIME MAGAZINE&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee shares his insights and reflections in an interview with Time magazine, demonstrating his thoughts on human spirit and resilience during difficult times."</data>
+      <data key="d5">"media engagement, reflection"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;PARIS&quot;" target="&quot;TOTAL ADVISORY BOARD&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The TOTAL Advisory Board meets in Paris to discuss global energy strategies and issues, involving international experts like Henry Kissinger."</data>
+      <data key="d5">"meeting venue, energy advisory"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;CHINESE COMMUNITY&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee's policies aimed to ensure that the Chinese Community in Singapore would have an equitable status among other races, promoting integration."</data>
+      <data key="d5">"integration policies, equality"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;THE GREAT HALL OF THE PEOPLE&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee's meeting with Zhou Ziyang took place in The Great Hall of the People, indicating its importance as a venue for political discussion."</data>
+      <data key="d5">"venue significance, political context"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;STRAITS TIMES&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee reflects on a column written by his daughter published in the Straits Times, indicating a family connection and public sharing of personal stories."</data>
+      <data key="d5">"family connection, public narrative"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;MARRIAGE VOWS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee reflects on marriage vows which symbolize his commitment and emotional support towards his family member, particularly during their illness."</data>
+      <data key="d5">"commitment, emotional support"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;SKOLKOVO BUSINESS SCHOOL&quot;" target="&quot;MOSCOW&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Skolkovo Business School is located in Moscow where discussions and programs related to business education are held, often involving political figures."</data>
+      <data key="d5">"educational engagement, location"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;SKOLKOVO BUSINESS SCHOOL&quot;" target="&quot;PRESIDENT MEDVEDEV&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"President Medvedev initiated the establishment of the Skolkovo Business School, influencing education in Russia and international collaboration."</data>
+      <data key="d5">"initiative, educational influence"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;INDIANS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee emphasizes the importance of balancing the interests of the Indian community within Singapore's multiracial framework."</data>
+      <data key="d5">"social cohesion, community integration"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;PROSTATE CANCER&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee discusses the health challenges faced by his brother, including prostate cancer, indicating personal familial concerns."</data>
+      <data key="d5">"family health, personal concern"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;HUMAN SPIRIT&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee discusses the concept of the Human Spirit in relation to overcoming adversity, indicating his belief in enduring strength and hope."</data>
+      <data key="d5">"resilience, belief"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;HUMAN SPIRIT&quot;" target="&quot;COMMUNISTS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The endurance of the Human Spirit is exemplified by the Communists' struggle for survival and strong beliefs during difficult times."</data>
+      <data key="d5">"resilience, historical context"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;HUMAN SPIRIT&quot;" target="&quot;NAZI&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The discussion of the Human Spirit in relation to the Nazi regime highlights the extraordinary resilience and belief systems in overcoming oppression."</data>
+      <data key="d5">"survival, resilience"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;TOTAL ADVISORY BOARD&quot;" target="&quot;JOE NYE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Joe Nye is a member of the TOTAL Advisory Board, contributing to discussions that inform global energy strategies and policies."</data>
+      <data key="d5">"membership, advisory role"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;MALAYS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee discusses the efforts made to include the Malay community in Singapore’s societal framework, ensuring they have equal opportunities."</data>
+      <data key="d5">"inclusivity, ethnic relations"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;MALAYS&quot;" target="&quot;PLAYING POLITICS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee warns against using racial politics which could lead to division among Malays and other communities, stressing the need for cohesive governance."</data>
+      <data key="d5">"political caution, societal stability"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;DIVERTICULITIS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee mentions diverticulitis as a health issue concerning his brother, contributing to the narrative about health challenges in his family."</data>
+      <data key="d5">"family health, personal concern"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;DAUGHTER&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr. Lee's daughter writes about their shared experiences, highlighting family dynamics and emotional struggles within their relationship."</data>
+      <data key="d5">"family dynamics, emotional connection"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;ENGLISH LANGUAGE&quot;" target="&quot;SINGAPORE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The use of the English Language as a common working language strengthens the integration and communication among different ethnic groups in Singapore."</data>
+      <data key="d5">"linguistic unity, multiculturalism"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;FINANCE MINISTER&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee reflects on the bravery of the Finance Minister during his heart attack, indicating their close friendship and shared experiences."</data>
+      <data key="d5">"friendship, shared experiences"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;HOSPITAL BED&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"The Hospital Bed is essential for Mr. Lee's relative's care, representing the challenges faced in providing comfort at home."</data>
+      <data key="d5">"comfort, medical care"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;THE PRIEST&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The Priest provides last rites to the Finance Minister, representing the intersection of faith and critical moments in life."</data>
+      <data key="d5">"spiritual support, religious ritual"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;SINGAPORE&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">27.0</data>
+      <data key="d4">"Mr Lee discusses the complexities of governance in Singapore, reflecting on the necessity of leadership in a diverse society."&lt;SEP&gt;"Mr Lee played a pivotal role in the construction and governance of Singapore, influencing its policies and social dynamics."&lt;SEP&gt;"Mr Lee reflects on his role in shaping Singapore's multiracial society and its successful governance after its separation from Malaysia."</data>
+      <data key="d5">"governance, leadership dynamics"&lt;SEP&gt;"leadership, nation-building"&lt;SEP&gt;"political influence, societal development"</data>
+      <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;SINGAPORE&quot;" target="&quot;SEPARATION FROM MALAYSIA&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"The event of the separation from Malaysia directly impacted the formation of Singapore’s policies and societal structure."</data>
+      <data key="d5">"historical significance, foundation"</data>
+      <data key="d6">chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;HENRY KISSINGER&quot;" target="&quot;CHINA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Henry Kissinger maintains ongoing discussions and updates about China, highlighting its significance in international politics and economics."</data>
+      <data key="d5">"focus, international relations"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;HENRY KISSINGER&quot;" target="&quot;KIEV&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Kiev is a destination for Henry Kissinger as part of his international engagements, specifically invited by the President of Ukraine."</data>
+      <data key="d5">"invitation, diplomatic engagement"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;HENRY KISSINGER&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">15.0</data>
+      <data key="d4">"Mr Lee conducts the interview with Henry Kissinger about his views on international relations, showcasing their interaction."&lt;SEP&gt;"Mr Lee is scheduled to meet with Henry Kissinger to discuss factual matters regarding China, indicating collaboration on international affairs."</data>
+      <data key="d5">"international relations, collaboration"&lt;SEP&gt;"interview, dialogue"</data>
+      <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14&lt;SEP&gt;chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;HENRY KISSINGER&quot;" target="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Henry Kissinger is a member of the J P Morgan International Advisory Board where he engages in discussions about global issues, particularly regarding China."</data>
+      <data key="d5">"membership, international relations"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;MR LEE'S BROTHER&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee discusses the health crises affecting his brothers, indicating concern and familial solidarity during tough times."</data>
+      <data key="d5">"family health, concern"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;MR LEE'S BROTHER&quot;" target="&quot;MR LEE'S FAMILY&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee's family provides emotional support during health challenges faced by his brothers, indicating strong family ties."</data>
+      <data key="d5">"family support, emotional bonds"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;NURSES&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr. Lee discusses the role of nurses in caring for his relative, underscoring the importance of professional support in their lives."</data>
+      <data key="d5">"healthcare, support"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;FIRES&quot;" target="&quot;MOSCOW&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"The fires in Moscow, as discussed by Mr Lee, represent environmental conditions during his visits, impacting the context of international discussions."</data>
+      <data key="d5">"environmental conditions, situational context"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;RADIN MAS COMMUNITY&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee engages with the Radin Mas Community, highlighting his commitment to public interactions and community issues."</data>
+      <data key="d5">"community engagement, public service"</data>
+      <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </edge>
+    <edge source="&quot;MALAYSIA&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Mr Lee discusses his regrets about the separation from Malaysia and the potential benefits of a multiracial society had they remained united."&lt;SEP&gt;"Mr Lee's political challenges in Malaysia directly impacted his approach to forming Singapore as a cohesive nation."</data>
+      <data key="d5">"historical reflection, societal comparison"&lt;SEP&gt;"political history, influence"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2&lt;SEP&gt;chunk-0048e221113e1b67064e6608362e0884</data>
+    </edge>
+    <edge source="&quot;PHOTOS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The Photos evoke memories and reflections for Mr. Lee, illustrating the significance of past experiences in coping with current challenges."</data>
+      <data key="d5">"memory, reflection"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;" target="&quot;SAO PAOLO&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"The J P Morgan International Advisory Board holds meetings in Sao Paolo to discuss various international matters and strategies."</data>
+      <data key="d5">"meeting location, advisory role"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;J P MORGAN INTERNATIONAL ADVISORY BOARD&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee participates in discussions at the J P Morgan International Advisory Board, reflecting his active involvement in global issues."</data>
+      <data key="d5">"global discussions, influential engagement"</data>
+      <data key="d6">chunk-15ca552a025c2045d3559454bbf20e14</data>
+    </edge>
+    <edge source="&quot;HEART ATTACK&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee's reflection on the heart attack of the Finance Minister illustrates the serious implications of health crises among his close acquaintances."</data>
+      <data key="d5">"health crisis, personal reflection"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;FACTS AND FIGURES&quot;" target="&quot;CHINA&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The focus on facts and figures in relation to China emphasizes the need for informed discussions about its role in international matters."</data>
+      <data key="d5">"data-driven insights, geopolitical analysis"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+    <edge source="&quot;PHYSIOTHERAPY&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee undergoes physiotherapy to manage his health as he ages, reflecting his proactive approach to well-being."</data>
+      <data key="d5">"health management, proactive care"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;ISLAM&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Mr Lee discusses the concept of houris in Islam, expressing skepticism about religious conversion and beliefs about the afterlife."</data>
+      <data key="d5">"religious beliefs, skepticism"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;BUDDHISM&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Buddhism is referenced by Lee Kuan Yew in relation to the meditation mantra, showcasing the intermingling of spiritual practices."</data>
+      <data key="d5">"spirituality, multicultural influences"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;SETH MYDANS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Lee Kuan Yew is being interviewed by Seth Mydans, who is gathering insights on his life."</data>
+      <data key="d5">"interview, journalism"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;NG KOK SONG&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Ng Kok Song introduced Lee Kuan Yew to meditation, significantly influencing his personal practices."</data>
+      <data key="d5">"influence, meditation"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;LAURENCE FREEMAN&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Lee Kuan Yew was introduced to Laurence Freeman by Ng Kok Song, learning about meditation from him."</data>
+      <data key="d5">"teacher-student relationship, meditation"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;CHRISTIANITY&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Lee Kuan Yew's reflections on meditation intersect with discussions on Christianity, revealing his agnostic stance."</data>
+      <data key="d5">"faith, belief systems"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;MEDITATION&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Lee Kuan Yew practices meditation to find serenity and cope with the stresses of life."</data>
+      <data key="d5">"self-improvement, tranquility"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;QINGMING&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Lee Kuan Yew recalls his experiences participating in Qingming, highlighting the importance of ancestral rituals in Chinese culture."</data>
+      <data key="d5">"cultural tradition, remembrance"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;ALL SOUL'S DAY&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Lee Kuan Yew acknowledges All Soul's Day as a significant day for honoring ancestors, reflecting his observations and experiences."</data>
+      <data key="d5">"cultural observance, honor"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LEE KUAN YEW&quot;" target="&quot;LEISURE ACTIVITIES&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Lee Kuan Yew incorporates leisure activities like swimming and cycling as part of his efforts to maintain wellness and vitality."</data>
+      <data key="d5">"lifestyle choices, health"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;COMMUNISTS&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Mr Lee confronted Communist groups to safeguard Singapore’s stability, indicating the socio-political tensions of his era."&lt;SEP&gt;"Mr Lee references the Communists in a context discussing resilience and survival in the human spirit."</data>
+      <data key="d5">"ideological influence, human spirit"&lt;SEP&gt;"political resistance, ideological struggle"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40&lt;SEP&gt;chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;BUDDHISM&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Mr Lee refers to Buddhist beliefs regarding the afterlife and morally good living, contrasting it with his own views."</data>
+      <data key="d5">"belief systems, contrast"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;CATHERINE LIM&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Catherine Lim’s portrayal of Mr Lee in her writings shapes the public's perception of him and is a critical commentary on his character."</data>
+      <data key="d5">"public perception, literature"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;CATHERINE LIM&quot;" target="&quot;WESTERN CORRESPONDENT&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Catherine Lim’s portrayal of Mr Lee has influenced Western correspondents' views, often leading to a critical media portrayal of Singapore."</data>
+      <data key="d5">"media portrayal, literary influence"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;KIM&quot;" target="&quot;MR LEE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee expresses a desire to read Kim, linking it to memories of his wife and their literary discussions."</data>
+      <data key="d5">"literary connection, nostalgia"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;TOM PLATE&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee engages in a dialogue with Tom Plate about personal beliefs and experiences, highlighting public vs. private identities."</data>
+      <data key="d5">"dialogue, identity exploration"</data>
+      <data key="d6">chunk-8b9a37af7a435e52523b75d8dc9b7f40</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;JANE AUSTEN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee mentions Jane Austen as his wife's favorite author, indicating the shared literary interests in their relationship."</data>
+      <data key="d5">"shared interests, literary connection"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;DON QUIXOTE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee discusses Don Quixote, noting how its themes contrast with his own pragmatic approach to life."</data>
+      <data key="d5">"literary exploration, thematic contrast"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;LIBEL SUITS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee utilizes libel suits as a tactic to defend his reputation against allegations and maintain authority."</data>
+      <data key="d5">"reputation management, legal strategy"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;CANTERBURY TALES&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Mr Lee recalls studying Canterbury Tales during his literature course, highlighting his academic background."</data>
+      <data key="d5">"education, literary engagement"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;CHINESE IDEALS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee’s behavior is influenced by Chinese Ideals of self-control and composure, which he attempts to portray publicly."</data>
+      <data key="d5">"cultural values, personal philosophy"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;SHAKESPEARE'S SONNETS&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee engages with Shakespeare's Sonnets through reading them to his wife, showing his dedication to her well-being."</data>
+      <data key="d5">"dedication, literary engagement"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;TAXI DRIVER&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"The taxi driver reflects public sentiment about Mr Lee, suggesting a common perception of caution around asking him questions, indicating a mix of respect and fear."</data>
+      <data key="d5">"public sentiment, influence"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;MR LEE'S WIFE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Mr Lee frequently reads to his wife, showing deep care and a connection through literature during her illness."</data>
+      <data key="d5">"caregiving, emotional connection"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;LEFT-WINGERS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee's governance included tackling challenges posed by left-wingers, illustrating the political struggles in maintaining order and control."</data>
+      <data key="d5">"political conflict, governance"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;SODIUM AMYTAL&quot;">
+      <data key="d3">5.0</data>
+      <data key="d4">"Mr Lee refers to Sodium Amytal in the context of contemplating choices around death and control over one’s life."</data>
+      <data key="d5">"death contemplation, control"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;MALAY ULTRAS&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Mr Lee faced opposition from the Malay Ultras during his political time in Malaysia, affecting his political outlook and strategies."</data>
+      <data key="d5">"ethnic tensions, political resistance"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;RAFFLES COLLEGE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee's education at Raffles College highlights his literary background and informs his views and interests."</data>
+      <data key="d5">"education, literary background"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;SINGAPORE PRESS HOLDINGS&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee references articles published by Singapore Press Holdings reflecting on personal experiences and family dynamics."</data>
+      <data key="d5">"personal narrative, media influence"</data>
+      <data key="d6">chunk-ea85520f90353977e24bdf43b0758958</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;SELF-CONTROL&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Mr Lee embodies self-control in the public eye, which aligns with the Chinese ideal of a composed leader."</data>
+      <data key="d5">"character traits, cultural values"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;SCOTTISH POETS&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Mr Lee finds Scottish poets difficult to understand, which creates a contrast with his literary experiences."</data>
+      <data key="d5">"literary challenges, contrast"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;MR LEE&quot;" target="&quot;NATIONAL UNITY&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Mr Lee’s policies aim to foster national unity in Singapore by emphasizing a common working language while acknowledging the importance of cultural diversity."</data>
+      <data key="d5">"social cohesion, governance"</data>
+      <data key="d6">chunk-4e82709d7c6a99afe63b69182e8137d2</data>
+    </edge>
+    <edge source="&quot;NG KOK SONG&quot;" target="&quot;JOHN MAIN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Ng Kok Song's meditation practice is influenced by John Main's teachings, establishing a connection between them in the context of meditation."</data>
+      <data key="d5">"teaching influence, lineage"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;NG KOK SONG&quot;" target="&quot;MA RA NA TA&quot;">
+      <data key="d3">8.0</data>
+      <data key="d4">"Ng Kok Song recommended the mantra Ma Ra Na Ta to Lee Kuan Yew as part of his meditation practice."</data>
+      <data key="d5">"meditation guidance, mantra"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;LAURENCE FREEMAN&quot;" target="&quot;JOHN MAIN&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Laurence Freeman learned about meditation from John Main, indicating a continuity of teaching."</data>
+      <data key="d5">"meditation lineage, teaching"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;JANE AUSTEN&quot;" target="&quot;MR LEE'S WIFE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Mr Lee's wife is described as having a strong appreciation for Jane Austen's works, suggesting a shared interest between them."</data>
+      <data key="d5">"shared interests, appreciation"</data>
+      <data key="d6">chunk-03bd688c9e10bddd33d739af95e24657</data>
+    </edge>
+    <edge source="&quot;GOVERNMENT OF SINGAPORE INVESTMENT CORPORATION&quot;" target="&quot;GOVERNMENT OF SINGAPORE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"The Government of Singapore oversees the Government of Singapore Investment Corporation, which manages national investments."</data>
+      <data key="d5">"governance, finance"</data>
+      <data key="d6">chunk-8df7eb49f908e8e167bcacd5dd1d2a77</data>
+    </edge>
+    <edge source="&quot;MOSCOW&quot;" target="&quot;KIEV&quot;">
+      <data key="d3">6.0</data>
+      <data key="d4">"Mr Lee's travel from Moscow to Kiev signifies a direct connection between these cities for international discussions and diplomacy."</data>
+      <data key="d5">"travel, diplomatic connection"</data>
+      <data key="d6">chunk-6e1573a1d0dc8e891b3112b57cee3b2f</data>
+    </edge>
+  </graph>
+</graphml>

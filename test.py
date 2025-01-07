@@ -7,7 +7,7 @@ from lightrag.llm import gpt_4o_mini_complete
 # nest_asyncio.apply()
 #########
 
-WORKING_DIR = "./dickens"
+WORKING_DIR = "./knowledge"
 
 if not os.path.exists(WORKING_DIR):
     os.mkdir(WORKING_DIR)
@@ -18,25 +18,26 @@ rag = LightRAG(
     # llm_model_func=gpt_4o_complete  # Optionally, use a stronger model
 )
 
-with open("./dickens/book.txt", "r", encoding="utf-8") as f:
+# Insert dickens text into the RAG
+with open(WORKING_DIR + '/LKYTranscript.txt', "r", encoding="utf-8") as f:
     rag.insert(f.read())
 
 # Perform naive search
 print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="naive"))
+    rag.query("Who is two and a half years older than Lee Kuan Yew?", param=QueryParam(mode="naive"))
 )
 
 # Perform local search
 print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="local"))
+    rag.query("Who is two and a half years older than Lee Kuan Yew?", param=QueryParam(mode="local"))
 )
 
 # Perform global search
 print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="global"))
+    rag.query("Who is two and a half years older than Lee Kuan Yew?", param=QueryParam(mode="global"))
 )
 
 # Perform hybrid search
 print(
-    rag.query("What are the top themes in this story?", param=QueryParam(mode="hybrid"))
+    rag.query("Who is two and a half years older than Lee Kuan Yew?", param=QueryParam(mode="hybrid"))
 )

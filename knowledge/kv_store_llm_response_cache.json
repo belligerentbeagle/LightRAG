@@ -1,0 +1,38 @@
+{
+  "hybrid": {
+    "f9366b1a764adff7a74b69b7db79e5a7": {
+      "return": "The data provided does not specify Lee Kuan Yew's actual birth date or that of any other person to determine who might be two-and-a-half years older than him. \n\nLee Kuan Yew was born on September 16, 1923. Based on that information, this would mean that a person born on March 1, 1921, would be two-and-a-half years older than him. However, no other specific individual or relations are mentioned in the provided data who fits this description. Thus, without additional context or details, I cannot identify who is two-and-a-half years older than Lee Kuan Yew.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is two-and-a-half years older than Lee Kuan Yew?"
+    },
+    "464e7da1d7331e921654186493fc277b": {
+      "return": "Lee Kuan Yew was significantly influenced in his meditation practices by several key figures in his life. Among them, Ng Kok Song, the Chief Investment Officer of the Government of Singapore Investment Corporation, played a pivotal role. Ng introduced Lee Kuan Yew to the practice of meditation, which became an important aspect of his life as he sought to reflect on and cope with the stresses of governance and personal challenges.\n\nFurthermore, Laurence Freeman, a Catholic meditation teacher, was another influential figure who imparted teachings on meditation that resonated with Lee Kuan Yew. Freeman's approach to meditation helped shape Lee's understanding of the practice, establishing a deeper connection to spiritual reflection.\n\nBoth of these mentors contributed to Lee Kuan Yew's journey into meditation, allowing him to cultivate a sense of serenity and introspection amidst the complexities he faced in public life.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who taught Lee Kuan Yew meditation?"
+    },
+    "7ae6d51c7251874bc353ae3b5d1d92de": {
+      "return": "The 'she' in question refers to Mr. Lee's wife. In the data tables, it is mentioned that she is bedridden and unable to speak after experiencing a series of strokes. Mr. Lee speaks about reading to her and their shared history, highlighting the emotional connection and care he still provides despite her illness.\n\nMr. Lee illustrates their relationship through his reflections on their time together, mentioning that he keeps her company and reads her favorite poetry. He expresses a strong commitment to her well-being, emphasizing the deep emotional bond they share. This is evident in multiple responses, where he discusses the efforts he makes to ensure her comfort, such as providing proper medical care and emotional support, and engaging her with literature that she enjoyed in the past.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is the 'she' referring to?"
+    }
+  },
+  "local": {
+    "a7594377f29fa5b220c1f039a1734504": {
+      "return": "The 'she' referred to in the excerpts is Mr. Lee Kuan Yew's wife. Throughout the dialogue, Mr. Lee discusses his wife's suffering due to a series of strokes that have left her bed-ridden and unable to speak. He reflects on their long life together, the memories they have shared, and how he continues to care for her during her illness. Mr. Lee expresses his commitment to her well-being and shares how he reads to her, engages with memories, and shares the challenges of seeing her in her current state. His care and dedication underscore the emotional bond and shared history they have built over their years together.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Who is the 'she' referring to?"
+    }
+  }
+}
